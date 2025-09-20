@@ -1,2 +1,2 @@
 # Javascript
-This repository contains Javascript codes and practice.
+This repository contains Javascript codes.
